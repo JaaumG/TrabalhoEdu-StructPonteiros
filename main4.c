@@ -2,7 +2,7 @@
 
 struct{
     char nome[30];
-    float nota[4]
+    float nota[4];
 }typedef RgAluno;
 
 
